@@ -1,3 +1,3 @@
 print("Hello this is devops")
 
-prinHello this is devops1")
+print("Hello this is devops1")
